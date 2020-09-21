@@ -19,7 +19,7 @@ public class Graph {
 			hand.setLevel(Level.FINE);
 			loger.addHandler(hand);
 			
-			loger.setLevel(Level.FINE);
+			loger.setLevel(Level.WARNING);
 		}
 		
 	}
